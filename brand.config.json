@@ -7,7 +7,7 @@
     },
     "domain_name": "YourBrand.com",
     "colors": {
-        "primary": "#3B82F6",
+        "primary": "#19945d",
         "secondary": "#64748b",
         "tertiary": "#8b5cf6",
         "success": "#10b981",
@@ -32,7 +32,7 @@
     },
     "typography": {
         "font_family": {
-            "primary": "Lato",
+            "primary": "Nunito",
             "secondary": "Georgia, 'Times New Roman', Times, serif",
             "monospace": "'Courier New', Courier, monospace"
         },
@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "SHABA TRADERS",
+        "name": "SHABA TRADES",
         "i18n": {
             "default_language": "EN"
         },
